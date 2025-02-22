@@ -15,6 +15,22 @@ print("Hello...")
 # Data types
 # Python has various types of data types but the basic data types are string, boolean, integers, float.
 
+# string
+first_name = "Tarun"
+string_age = "21"
+
+# integers
+age = 21
+fav_number = 1
+
+# float
+gpa = 9.5
+price_of_a_manga = 500.00
+
+# Boolean
+i_like_manga = True
+do_i_insect = False
+
 # -----------------------------------------------------------------------------------------------------------------------------------
 # variables
 # variables are the containers to store the data.
