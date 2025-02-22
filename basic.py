@@ -68,3 +68,9 @@ age = float(age)
 print(age)
 print(f"afte typecasting the age is of {type(age)} data type")
 
+# like this we can convert the any data type to another data type by using below functions
+# to convert in string data type str()
+# to convert in integer data type int()
+# to convert in float data type float()
+# to convert in boolean data type bool()
+
