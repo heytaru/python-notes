@@ -1,3 +1,4 @@
+
 # this is a single line comments
 
 '''
@@ -10,12 +11,13 @@ This is a multiple line comments
 print("Hello...")
 
 # Data types
-# Python has various types of data types but the basic data types are string, boolean, integers, float
+# Python has various types of data types but the basic data types are string, boolean, integers, float.
 
 # variables
 # variables are the containers to store the data.
 # for example.
-first_name = "Tarun Bhandari" # first_name is a variable that store the tarun bhandari as a value.
-# so if i print the first_name then it will shown the value Tarun Bhandari
+first_name = "Tarun Bhandari" # first_name is a variable that store the "Tarun Bhandari" as a value.
+
+# so if i print the first_name variable, then it will print Tarun Bhandari as it's value
 print("My name is " + first_name)
 
