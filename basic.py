@@ -53,3 +53,18 @@ print(f"Hey it nice to meet you. My name is {name}")
 print(f"I am {age} yrs old. I like many things but out of all I really like to code at night.")
 print(f"My contact number is {contact_number}. You can connect with through my email, my email address is {email}")
 
+# -----------------------------------------------------------------------------------------------------------------------------------
+# Typecasting
+# it is a process of converting one data type to another.
+# let convert an integer type to float type
+
+# integer
+age = 21
+print(f"age: {age}")
+print(f"age is of {type(age)} data type") # type() can tell the data class of the value
+
+# typecasting to float type
+age = float(age)
+print(age)
+print(f"afte typecasting the age is of {type(age)} data type")
+
