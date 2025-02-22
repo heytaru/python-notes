@@ -21,3 +21,16 @@ first_name = "Tarun Bhandari" # first_name is a variable that store the "Tarun B
 # so if i print the first_name variable, then it will print Tarun Bhandari as it's value
 print("My name is " + first_name)
 
+'''
+    Below is the simple program which will print the basic information about myself. 
+'''
+
+name = "Tarun Bhandari"
+age = 21
+email = "heytaru@gmail.com"
+contact_number = 1234567890
+
+print(f"Hey it nice to meet you. My name is {name}")
+print(f"I am {age} yrs old. I like many things but out of all I really like to code at night.")
+print(f"My contact number is {contact_number}. You can connect with through my email, my email address is {email}")
+
