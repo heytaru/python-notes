@@ -29,7 +29,7 @@ price_of_a_manga = 500.00
 
 # Boolean
 i_like_manga = True
-do_i_insect = False
+do_i_like_insect = False
 
 # -----------------------------------------------------------------------------------------------------------------------------------
 # variables
