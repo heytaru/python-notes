@@ -82,3 +82,7 @@ print(f"afte typecasting the age is of {type(age)} data type")
 # taking the user name and printing it on the screen
 name_of_user = input("Enter your name: ")
 print(f"Your name is {name_of_user}")
+
+# we can take others data type too from the user
+user_age = int(input("Enter your age: "))
+print(f"Your age is {user_age}")
