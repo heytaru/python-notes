@@ -74,3 +74,11 @@ print(f"afte typecasting the age is of {type(age)} data type")
 # to convert in float data type float()
 # to convert in boolean data type bool()
 
+# -----------------------------------------------------------------------------------------------------------------------------------
+# Input()
+# Input() helps us to take the input from the users.
+# example
+
+# taking the user name and printing it on the screen
+name_of_user = input("Enter your name: ")
+print(f"Your name is {name_of_user}")
