@@ -5,3 +5,5 @@
 # / divison operator
 # % reminder operator
 
+# exponents operator
+print(f"2 ** 3 = {2 ** 3}")
