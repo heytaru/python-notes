@@ -83,6 +83,6 @@ print(f"afte typecasting the age is of {type(age)} data type")
 name_of_user = input("Enter your name: ")
 print(f"Your name is {name_of_user}")
 
-# we can take others data type too from the user
+# the data which is taken from the user will always be a string data type, so if you want to take number from the user for example age then you have convert it to int data type.
 user_age = int(input("Enter your age: "))
 print(f"Your age is {user_age}")
