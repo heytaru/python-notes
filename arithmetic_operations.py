@@ -3,7 +3,7 @@
 # - Subtraction operator
 # * multiplication operator
 # / divison operator
-# % reminder operator
+# % modulus operator
 
 # exponents operator
 print(f"2 ** 3 = {2 ** 3}")
