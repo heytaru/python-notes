@@ -31,5 +31,6 @@ else:
     print("You are not an adult.")
 
 # -----------------------------------------------------------------------------------------------------------------------------------
-# 1 examples
+# 2 examples
 # 1 - to check whether the items are in sales or not. - item_sales.py
+# 2 - Temperature converter
