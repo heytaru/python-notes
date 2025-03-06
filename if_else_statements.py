@@ -29,3 +29,8 @@ elif age >= 18:
     print("You are an adult")
 else:
     print("You are not an adult.")
+
+# -----------------------------------------------------------------------------------------------------------------------------------
+# 2 examples
+# 1 - to check whether the items are in sales or not. - item_sales.py
+# 2 - to check whether the food is available or not. - food.py
