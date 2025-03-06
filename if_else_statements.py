@@ -20,9 +20,11 @@ else:
 #   perform
 
 age = int(input("Enter age: "))
-if age >= 18:
-    print("You are an adult")
-elif age < 0:
+if age < 0:
     print("Please enter proper age")
+elif age >= 100:
+    print("You should be dead")
+elif age >= 18:
+    print("You are an adult")
 else:
     print("You are not an adult.")
