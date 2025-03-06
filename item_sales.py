@@ -18,7 +18,10 @@ for sales_timing in range(0, 10):
     else:
         print("The sale is gonna end soon.... Hurry buy the necessary things, everything is 50% off.")
     
+    # deducting the sales timing
     sales_timing -= 1
+    
+# printing if the sales  runs out.
 else:
     print("\n")
     print("The sales has end. Thank you for coming to us.")
